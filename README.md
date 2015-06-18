@@ -1,3 +1,5 @@
+<a href="https://codeclimate.com/github/pankajagrawal16/sonar-voilation-assign"><img src="https://codeclimate.com/github/pankajagrawal16/sonar-voilation-assign/badges/gpa.svg" /></a>
+
 Sonar Violation Assignment
 --------------------------
 
