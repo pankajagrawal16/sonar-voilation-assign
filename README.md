@@ -1,4 +1,4 @@
-<a href="https://codeclimate.com/github/pankajagrawal16/sonar-voilation-assign"><img src="https://codeclimate.com/github/pankajagrawal16/sonar-voilation-assign/badges/gpa.svg" /></a>
+[![Code Climate](https://codeclimate.com/github/pankajagrawal16/sonar-voilation-assign/badges/gpa.svg)](https://codeclimate.com/github/pankajagrawal16/sonar-voilation-assign)
 
 Sonar Violation Assignment
 --------------------------
